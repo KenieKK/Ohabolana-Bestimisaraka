@@ -1,0 +1,5 @@
+nano .gitignore
+venv/
+__pycache__/
+*.pyc
+proverbes.db
